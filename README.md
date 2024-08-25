@@ -1,7 +1,7 @@
 ### 使用说明
 
 1. 下载 `layui v2.9.16` 前端组件
-   - 相关信息页面及下载地址：https://gitee.com/layui
+   - 项目主页及下载地址：https://layui.dev/
 2. 将 `layui` 压缩包解压至本项目目录，形成如下结构；
    - lottery.html
    - README.md
